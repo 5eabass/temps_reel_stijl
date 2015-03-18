@@ -23,7 +23,7 @@ projet temps réel
 * Pour commit : mettre a jour la version sur serveur avec la sienne *
 *********************************************************************
 
-> git add -A ( ajoute tous les fichier au repo (si vous en avez ajouté))
+> git add -A (ajoute tous les fichier au commit, pas performant mais marche)
 > git commit -m "message pertinent" (initialise le commit , on est OBLIGE de mettre un message)
 > git push (envoie le commit)
 
